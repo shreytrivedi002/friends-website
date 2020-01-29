@@ -1,0 +1,38 @@
+li {
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: inline;
+    background-color: rgb(14, 13, 13);
+    text-decoration-style: solid;
+    list-style: none;
+    display: inline;
+}
+
+.nav1 {
+    color: rgb(210, 243, 22);
+}
+
+a:hover {
+    color: rgb(12, 34, 231);
+    font-size: xx-large;
+    background-size: xx-large;
+    background-color: rgb(200, 243, 8);
+}
+
+th {
+    border: 2px dashed red;
+    /* color: rgb(247, 239, 239); */
+}
+
+td {
+    border: 2px dashed red;
+    border-top: none;
+}
+
+body {
+    background-image: url(background.jpeg);
+}
+
+table {
+    color: rgb(247, 239, 239);
+}
